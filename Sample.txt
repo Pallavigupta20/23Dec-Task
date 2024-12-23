@@ -1,3 +1,7 @@
 This is the Sample file
 changes made by padma
+<<<<<<< HEAD
 use javascript
+=======
+padma
+>>>>>>> 146b14184afc801a0866ac3b35de08824a04749d
